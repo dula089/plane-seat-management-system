@@ -160,7 +160,7 @@ plane-seat-management-system/
 │   ├── 📄 Person.java                              # Person entity
 │   └── 📄 Ticket.java                             # Ticket entity
 ├── 📂 docs/
-│   └── 📄 coursework-requirements.pdf              # Project requirements
+│   └── 📄 coursework.pdf              # coursework
 ├── 📄 A2.txt                                    # Generated ticket files
 ├── 📄 README.md                                    # This file
 ├── 📄 .gitignore                                   # Git ignore rules
